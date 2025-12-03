@@ -9,7 +9,7 @@ This repository provides a comprehensive educational implementation of ensemble 
 <div align="center">
   <img src="file_structure_overview.png" alt="Repository Structure" width="800"/>
 </div>
-
+ 
 ### Core Training Scripts
 
 **cifar100_enhanced.py**  
