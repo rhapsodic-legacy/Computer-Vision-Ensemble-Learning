@@ -14,7 +14,7 @@ This repository provides a comprehensive educational implementation of ensemble 
  
 **cifar100_enhanced.py**  
 Enhanced single-model trainer that serves as the baseline, achieving 70-72% accuracy through improved architecture (EfficientNet-B0), balanced regularization, and optimized training procedures.
-
+ 
 **cifar100_ensemble_trainer.py**  
 Automated ensemble training system that trains 5 diverse models with varying architectures (EfficientNet-B0, ResNet50, ConvNeXt-Tiny), random seeds, and hyperparameters. Implements strong data augmentation (MixUp, CutMix, RandomErasing), label smoothing, and cosine annealing with warmup.
 
