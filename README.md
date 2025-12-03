@@ -11,7 +11,7 @@ This repository provides a comprehensive educational implementation of ensemble 
 </div>
  
 ### Core Training Scripts
-
+ 
 **cifar100_enhanced.py**  
 Enhanced single-model trainer that serves as the baseline, achieving 70-72% accuracy through improved architecture (EfficientNet-B0), balanced regularization, and optimized training procedures.
 
