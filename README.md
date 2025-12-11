@@ -5,7 +5,7 @@
 This repository provides a comprehensive educational implementation of ensemble learning techniques applied to the CIFAR-100 dataset. Designed to help students and practitioners understand advanced computer vision methods, this project demonstrates how combining multiple diverse models can significantly improve classification accuracy beyond what any single model achieves. The implementation uses model ensembling; training multiple neural networks with different architectures, hyperparameters, and random seeds, then combining their predictions through various fusion strategies.
  
 ## Repository Structure
-
+  
 <div align="center">
   <img src="file_structure_overview.png" alt="Repository Structure" width="800"/>
 </div>
